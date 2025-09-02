@@ -1,5 +1,6 @@
 # Cognitive-Workload-Detection-using-EEG-Image
 
+
 # EEG-based Classification using Deep Learning
 This project demonstrates a deep learning approach to classify EEG signals. It involves preprocessing raw EEG data, calculating functional connectivity, and using a Convolutional Neural Network (CNN) to perform the classification task.
 
